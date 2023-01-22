@@ -1,0 +1,9 @@
+Git Commands:
+
+1.git --version :- to see the git is intall or not and which version.
+
+2. git status  :- To see the status of your git account.
+
+3. git init  :- current Directory to initilized as  git repository.
+
+4.git add.  :- all file are stage
