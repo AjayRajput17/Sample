@@ -19,3 +19,7 @@ Git Commands:
 9.$ git diff --staged Commands.txt :- To see the changes that file are open in staged mode
 
 10. $ git checkout Commands.txt And $ git restore-- Commands.txt :- this are used to undo the changes which are not Commit
+
+11.$ git clone (SSH-key) :- to copy the repositort and create a folder into new folder.
+11b. $ git clone (SSH-key) . :- to copy the repositort and create a same repository
+
