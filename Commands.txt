@@ -7,3 +7,7 @@ Git Commands:
 3. git init  :- current Directory to initilized as  git repository.
 
 4.git add.  :- all file are stage
+
+5. git commit -m "version_name" :- commit the changes.
+
+6. git log :- To See who made the change and when.
