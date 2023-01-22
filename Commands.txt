@@ -23,3 +23,9 @@ Git Commands:
 11.$ git clone (SSH-key) :- to copy the repositort and create a folder into new folder.
 11b. $ git clone (SSH-key) . :- to copy the repositort and create a same repository
 
+12. $ git push -u origin master :- push the content into git hub
+
+13. $ git pull :- to pull the content.
+
+
+
