@@ -27,5 +27,7 @@ Git Commands:
 
 13. $ git pull :- to pull the content.
 
+14.$ touch gitignore :- it will create the black gitignore file in our reporisectory after that you can create the ignore file like ex- Notepad .gitignore  
+
 
 
