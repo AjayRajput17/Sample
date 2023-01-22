@@ -13,3 +13,9 @@ Git Commands:
 6. git log :- To See who made the change and when.
 
 7.git remote add origin (path) :- to add the origin
+
+8. git diff(file-name) :- to see the changes
+
+9.$ git diff --staged Commands.txt :- To see the changes that file are open in staged mode
+
+jcdhhcjchuscjhch
